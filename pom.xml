@@ -5,7 +5,7 @@
         <artifactId>oss-parent</artifactId>
         <version>7</version>
     </parent>
-    <groupId>us.codecraft</groupId>
+    <groupId>us.codecraft.fork</groupId>
     <version>0.7.2</version>
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
@@ -83,7 +83,7 @@
             <dependency>
                 <groupId>com.jayway.jsonpath</groupId>
                 <artifactId>json-path</artifactId>
-                <version>0.8.1</version>
+                <version>2.2.0</version>
             </dependency>
             <dependency>
                 <groupId>org.slf4j</groupId>
