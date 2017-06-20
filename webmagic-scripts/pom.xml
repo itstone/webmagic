@@ -7,7 +7,6 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>us.codecraft</groupId>
     <artifactId>webmagic-scripts</artifactId>
     <properties>
         <kotlin.version>1.1.2-2</kotlin.version>
@@ -45,12 +44,12 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>us.codecraft</groupId>
+            <groupId>us.codecraft.fork</groupId>
             <artifactId>webmagic-core</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>us.codecraft</groupId>
+            <groupId>us.codecraft.fork</groupId>
             <artifactId>webmagic-extension</artifactId>
             <version>${project.version}</version>
         </dependency>

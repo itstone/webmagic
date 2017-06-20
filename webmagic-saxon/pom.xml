@@ -11,7 +11,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>us.codecraft</groupId>
+            <groupId>us.codecraft.fork</groupId>
             <artifactId>webmagic-core</artifactId>
             <version>${project.version}</version>
         </dependency>
